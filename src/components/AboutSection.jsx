@@ -18,10 +18,10 @@ export default function AboutSection() {
         </h2>
   <div className="w-16 h-1 bg-gradient-to-r from-red-500 to-red-700 rounded-full mb-14" />
   <p className="text-lg sm:text-xl text-white-300 mb-8">
-          TEDxVJIT is an independently organized TED event that brings together innovators, thinkers, and doers from various fields to share ideas worth spreading. In the spirit of TED’s mission, our goal is to spark deep discussions and connections in our community.
+          TEDxVJIT is an independently organized TED event hosted by Vidya Jyothi Institute of Technology, Hyderabad. It gathers distinguished individuals, including thought leaders, innovators and changemakers, to share their views and experiences with the audience.
         </p>
   <p className="text-lg sm:text-xl text-white-300 mb-10">
-          Organized by the students of VJIT, TEDxVJIT showcases innovative ideas and inspiring stories that challenge conventional thinking and spark meaningful conversations.
+          The event promotes the exchange of knowledge and motivates professionals and students to explore new perspectives. It is dedicated to fostering inspiration, intellectual curiosity, and meaningful conversations.
         </p>
 
         <a
